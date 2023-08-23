@@ -18,3 +18,5 @@ function getUpper(val: string) {
 }
 
 getUpper("34")
+
+export{}
