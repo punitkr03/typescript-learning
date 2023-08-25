@@ -6,3 +6,5 @@ type User = {
 }
 
 function createUser(user: User) {}
+
+export{}
