@@ -51,3 +51,5 @@ function getArea(shape: Shape){
             return _deafultShape
     }
 }
+
+export{}
