@@ -18,6 +18,7 @@ class Instagram implements TakePhoto {
     ) {}
 }
 
+
 class Youtube implements TakePhoto, Story {
     constructor(
         public cameraMode: string,
